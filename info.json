@@ -1,0 +1,18 @@
+[
+    {
+      "1": {
+        "Link": "https://spb.hh.ru/vacancy/73908768?from=vacancy_search_list&query=Python+django+flask",
+        "Salary": "от 1500 до 3000 USD на руки",
+        "Name": "CiPlay",
+        "City": "Санкт-Петербург"
+      }
+    },
+    {
+      "2": {
+        "Link": "https://spb.hh.ru/vacancy/73250741?from=vacancy_search_list&query=Python+django+flask",
+        "Salary": "от 1500 до 2500 USD на руки",
+        "Name": "CoinsGuru",
+        "City": "Москва"
+      }
+    }
+  ]
